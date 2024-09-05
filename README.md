@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Gagan07codes
 - 👀 I’m interested in data analytics and full stack development
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently pursuing BCA
 - 💞️ I’m looking to collaborate on frontend and data analytical projects
 - 📫 reach me @insta- gagan_07_ or +91 9945893824
-- ⚡ eager to learn with anyone  anytime
+- ⚡ eager to learn with anyone anytime......
 -  
 
 <!---
